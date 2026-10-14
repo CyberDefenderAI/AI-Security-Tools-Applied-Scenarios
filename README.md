@@ -26,7 +26,9 @@ As the threat landscape evolves from manual exploitation to automated, AI-driven
    * [Translation & Localization](#translation--localization)
    * [Summarization & Alert Triage](#summarization--alert-triage)
 
----## 🛠️ Tools and Applications
+---
+
+## 🛠️ Tools and Applications
 
 ### IDE Plugins
 Integrating AI directly into the Integrated Development Environment (IDE) represents the ultimate "Shift-Left" security approach. By identifying vulnerabilities during the coding phase, organizations drastically reduce remediation costs and prevent insecure code from ever reaching the continuous integration pipeline.
@@ -93,7 +95,9 @@ MCP servers act as a secure bridge between an LLM and a company's internal tools
 
 * **OSINT & Threat Intel MCPs:** Connections to external APIs like Shodan, VirusTotal, or AlienVault OTX. When an analyst asks about a specific IP address in an AI chat, the model autonomously queries these MCP servers to fetch real-time reputation scores, open ports, and historical malware associations to enrich its answer dynamically.
 
----## 🎯 Application Scenarios & Use Cases
+---
+
+## 🎯 Application Scenarios & Use Cases
 
 ### Signature Analysis
 AI drastically accelerates the creation, optimization, and translation of detection rules used by firewalls, Intrusion Detection Systems (IDS), and enterprise antivirus engines.
