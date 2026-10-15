@@ -1,4 +1,4 @@
-# Awesome AI in Cybersecurity
+# AI in Cybersecurity
 
 A curated, comprehensive, and deeply detailed list of open-source tools, applications, and practical use cases leveraging Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs) to solve complex information security challenges.
 
